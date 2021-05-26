@@ -1,5 +1,5 @@
 {
-    "name": "fx/test",
+    "name": "ffxin/test",
     "description": "export mysql data table structure and comments",
     "type": "library",
     "authors": [
